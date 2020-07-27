@@ -1,4 +1,4 @@
-=== Plausible Analytics Unofficial Plugin ===
+=== Unofficial Plausible Analytics Plugin ===
 Contributors: joemclarke
 Tags: plausible, analytics
 Requires at least: 5.4

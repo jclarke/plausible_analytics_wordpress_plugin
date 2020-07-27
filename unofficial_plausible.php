@@ -1,10 +1,10 @@
 <?php
 /**
- * @package Plausible Analytics Unofficial Plugin
+ * @package Unofficial Plausible Analytics Plugin
  * @version 1.0.0
  */
 /*
-Plugin Name: Plausible Analytics Unofficial Plugin
+Plugin Name:  Unofficial Plausible Analytics Plugin
 Plugin URI: https://blog.taskbill.io/plausible-analytics-plugin/
 Description: This plugin adds the Plausible Analytics script to your wordpress site and can optionally not send analytics data for logged in wordpress admin users.
 Author: TaskBill.io
@@ -49,7 +49,7 @@ function plausible_unofficial_options_page(){
 ?>
   <div>
   <?php screen_icon(); ?>
-  <h2>Plausible Analytics Unofficial Plugin by <a href="https://TaskBill.io/?utm_source=plausible_plugin">TaskBill.io</a></h2>
+  <h2>Unofficial Plausible Analytics Plugin by <a href="https://TaskBill.io/?utm_source=plausible_plugin">TaskBill.io</a></h2>
   <p>Please verify your domain matches the domain you have entered in Plausible Analytics. <br>You can also disable tracking of any user that is logged in as an administrator by checking the Disable Tracking of Admin Users below.</p>
   
   <form method="post" action="options.php">
